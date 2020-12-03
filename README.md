@@ -17,6 +17,9 @@ The program uses Inquirer and Jest.
 
 ## Usage
 Run node app.js to prompt the user with questions to answer in order to build their team members. Once they submitted their response a team.html file will be created with the information provided.
+
+![](Assets/tpg.gif)
+
 ## Contribution
 When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change.
 
